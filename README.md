@@ -8,7 +8,7 @@ xplorit is a fun [geocaching-like](https://en.wikipedia.org/wiki/Geocaching) gam
 ## Demo
 
 Click the below image to see a video demo of xplorit in use.
-[![xplorit demo](https://raw.githubusercontent.com/beans42/xplorit/refs/heads/master/thumbnail.png)](https://www.youtube.com/watch?v=w28d4se20ic&t=145 "xplorit demo")
+[![xplorit demo](https://raw.githubusercontent.com/ebrahim37/xplorit/refs/heads/master/thumbnail.png)](https://www.youtube.com/watch?v=w28d4se20ic&t=145 "xplorit demo")
 
 ## Usage
 
